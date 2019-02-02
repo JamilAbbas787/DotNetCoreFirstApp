@@ -1,0 +1,11 @@
+C:\Users\jamil\Desktop\GrandCircus\DotNetCoreFirstApp\bin\Debug\netcoreapp2.0\DotNetCoreFirstApp.deps.json
+C:\Users\jamil\Desktop\GrandCircus\DotNetCoreFirstApp\bin\Debug\netcoreapp2.0\DotNetCoreFirstApp.runtimeconfig.json
+C:\Users\jamil\Desktop\GrandCircus\DotNetCoreFirstApp\bin\Debug\netcoreapp2.0\DotNetCoreFirstApp.runtimeconfig.dev.json
+C:\Users\jamil\Desktop\GrandCircus\DotNetCoreFirstApp\bin\Debug\netcoreapp2.0\DotNetCoreFirstApp.dll
+C:\Users\jamil\Desktop\GrandCircus\DotNetCoreFirstApp\bin\Debug\netcoreapp2.0\DotNetCoreFirstApp.pdb
+C:\Users\jamil\Desktop\GrandCircus\DotNetCoreFirstApp\obj\Debug\netcoreapp2.0\DotNetCoreFirstApp.csprojAssemblyReference.cache
+C:\Users\jamil\Desktop\GrandCircus\DotNetCoreFirstApp\obj\Debug\netcoreapp2.0\DotNetCoreFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\jamil\Desktop\GrandCircus\DotNetCoreFirstApp\obj\Debug\netcoreapp2.0\DotNetCoreFirstApp.AssemblyInfoInputs.cache
+C:\Users\jamil\Desktop\GrandCircus\DotNetCoreFirstApp\obj\Debug\netcoreapp2.0\DotNetCoreFirstApp.AssemblyInfo.cs
+C:\Users\jamil\Desktop\GrandCircus\DotNetCoreFirstApp\obj\Debug\netcoreapp2.0\DotNetCoreFirstApp.dll
+C:\Users\jamil\Desktop\GrandCircus\DotNetCoreFirstApp\obj\Debug\netcoreapp2.0\DotNetCoreFirstApp.pdb

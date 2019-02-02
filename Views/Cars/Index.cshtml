@@ -1,0 +1,23 @@
+@model DotNetCoreFirstApp.Models.Cars
+
+<h1>List of Cars</h1>
+
+<div class="container">
+    
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>@Html.DisplayNameFor(n => n.Make)</th>
+            <th>@Html.DisplayNameFor(n => n.Model)</th>
+            <th>@Html.DisplayNameFor(n => n.Year)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class=".tbody-">
+            <td>@Html.DisplayFor(n => n.Make)</td>
+            <td>@Html.DisplayFor(n => n.Model)</td>
+            <td>@Html.DisplayFor(n => n.Year)</td>
+        </tr>
+
+    </tbody>
+</table>
